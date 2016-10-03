@@ -1,0 +1,22 @@
+{
+  "name": "notetakingapp",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-concat": "~2.6.0",
+    "gulp-sourcemaps": "~1.6.0",
+    "gulp-typescript": "~3.0.2",
+    "gulp-uglify": "~2.0.0",
+    "merge2": "~1.0.2",
+    "small": "~0.2.6"
+  },
+  "dependencies": {
+    "@types/mongodb": "~2.1.33",
+    "@types/node": "~6.0.42",
+    "angular2": "~2.0.0-beta.17",
+    "es6-shim": "~0.35.1",
+    "phaethon": "~0.2.0",
+    "rxjs": "~5.0.0-beta.12"
+  }
+}
